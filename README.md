@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I’m passionate about problem-solving in Java, sk
 
 ## 📫 Connect with Me
 Feel free to explore my repositories and connect with me!
+https://www.linkedin.com/in/bhavya-satya-sri-k-07674a292/
 
 <!--
 **bhavyasatyasri200/bhavyasatyasri200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
